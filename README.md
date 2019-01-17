@@ -1,1 +1,1 @@
-# ml-from-scratch
+some ml algos from scratch
